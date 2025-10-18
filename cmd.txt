@@ -1,0 +1,13 @@
+for cloning repo to system
+*git clone your-repo-url
+
+for adding code into repo
+
+git add .
+git commit -m 'commit here'
+git push
+
+
+for updating code from repo / pull
+
+git pull
